@@ -1,3 +1,4 @@
+![logo](https://github.com/Aayush-jaiswal78/Aayush-jaiswal78/blob/main/ChatGPT%20Image%20May%204%2C%202026%2C%2007_01_46%20PM.png)
 <h1 align="center">Hi 👋, I'm Aayush Jaiswal</h1>
 
 <p align="center">
