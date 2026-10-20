@@ -58,7 +58,7 @@
 - PCA, ANN, RNN, and LSTM
 - Backpropagation
 
-### 🌐 Backend, Deployment & DevOps
+### 🌐 Backend & Deployment 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,githubactions" alt="FastAPI, Docker, Git, GitHub and GitHub Actions" />
